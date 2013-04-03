@@ -1,7 +1,7 @@
 majorapi-python-sdk
 ===================
 
-See the [MajorApi: QuickBooks REST API](https://majorapi.com/developers/quickbooks/) for more information on how to use the MajorApi: QuickBooks REST API.
+See the [MajorApi: QuickBooks REST API](https://majorapi.com/developers/quickbooks) for more information on how to use the MajorApi: QuickBooks REST API.
 
 ## Quick Guide
 
