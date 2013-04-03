@@ -89,4 +89,4 @@ class MajorApiQuickbooks(object):
                                 'QuickBooks REST API. The error states: %s'
                                 % error)
 
-        return response
+        return json.loads(response.content)
